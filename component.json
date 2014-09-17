@@ -1,8 +1,8 @@
 {
   "name": "datepicker",
-  "repo": "component/datepicker",
+  "repo": "gvilarino/datepicker",
   "description": "Datepicker ui component built on component/calendar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": ["date", "picker", "calendar"],
   "dependencies": {
     "component/bind": "1.0.0",

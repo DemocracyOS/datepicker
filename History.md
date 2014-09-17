@@ -1,4 +1,9 @@
 
+1.0.2 / 2014-09-17
+==================
+
+ * Pin deps to latest versions except component/aurora since it has no tags
+
 1.0.1 / 2014-09-10
 ==================
 
@@ -12,7 +17,7 @@
   * Merge pull request #4 from paulmillr/patch-1
   * Add screenshot
 
-1.0.0 / 2013-05-17 
+1.0.0 / 2013-05-17
 ==================
 
   * fix double-display on subsequent clicks when a picker is already displayed 
