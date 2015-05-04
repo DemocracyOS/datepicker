@@ -16,8 +16,5 @@
     "popover": "popover-component",
     "event": "component-event"
   },
-  "license": "MIT",
-  "scripts": [
-    "index.js"
-  ]
+  "license": "MIT"
 }
