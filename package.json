@@ -11,10 +11,10 @@
     "component-event": "0.1.4"
   },
   "browser": {
-    "component-bind": "bind",
-    "calendar-component": "calendar",
-    "popover-component": "popover",
-    "component-event": "event"
+    "bind": "component-bind",
+    "calendar": "component-bind",
+    "popover": "popover-component",
+    "event": "component-event"
   },
   "license": "MIT",
   "scripts": [
