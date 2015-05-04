@@ -7,7 +7,7 @@
   "dependencies": {
     "component-bind": "1.0.0",
     "calendar-component": "0.0.3",
-    "popover-component": "1.1.0",
+    "popover-component": "git://github.com/slifszyc/popover",
     "component-event": "0.1.4"
   },
   "browser": {
