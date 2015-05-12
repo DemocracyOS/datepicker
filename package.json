@@ -13,7 +13,7 @@
   "style": "datepicker.css",
   "browser": {
     "bind": "component-bind",
-    "calendar": "component-bind",
+    "calendar": "calendar-component",
     "popover": "popover-component",
     "event": "component-event"
   },
