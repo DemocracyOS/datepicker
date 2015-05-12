@@ -6,7 +6,7 @@
   "keywords": ["date", "picker", "calendar"],
   "dependencies": {
     "component-bind": "1.0.0",
-    "calendar-component": "0.0.3",
+    "calendar-component": "git://github.com/slifszyc/calendar#0.2.0",
     "popover-component": "git://github.com/slifszyc/popover",
     "component-event": "0.1.4"
   },
