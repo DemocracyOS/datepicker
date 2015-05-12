@@ -8,7 +8,8 @@
     "component-bind": "1.0.0",
     "calendar-component": "git://github.com/slifszyc/calendar#0.1.1",
     "popover-component": "git://github.com/slifszyc/popover",
-    "component-event": "0.1.4"
+    "component-event": "0.1.4",
+    "aurora": "git://github.com/slifszyc/aurora"
   },
   "style": "datepicker.css",
   "browser": {
