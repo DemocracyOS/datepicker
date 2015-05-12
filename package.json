@@ -10,6 +10,7 @@
     "popover-component": "git://github.com/slifszyc/popover",
     "component-event": "0.1.4"
   },
+  "style": "datepicker.css",
   "browser": {
     "bind": "component-bind",
     "calendar": "component-bind",
