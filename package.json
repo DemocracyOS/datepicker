@@ -2,11 +2,11 @@
   "name": "democracyos-datepicker",
   "repo": "https://github.com/DemocracyOS/datepicker",
   "description": "Datepicker ui component built on component/calendar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": ["date", "picker", "calendar"],
   "dependencies": {
     "component-bind": "1.0.0",
-    "democracyos-calendar": "^0.3.0",
+    "democracyos-calendar": "^1.0.0",
     "democracyos-popover": "^1.1.0",
     "component-event": "0.1.4",
     "democracyos-aurora": "^0.0.1"
