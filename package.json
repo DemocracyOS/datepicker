@@ -1,21 +1,21 @@
 {
-  "name": "datepicker",
-  "repo": "slifszyc/datepicker",
+  "name": "democracyos-datepicker",
+  "repo": "https://github.com/DemocracyOS/datepicker",
   "description": "Datepicker ui component built on component/calendar",
   "version": "1.0.2",
   "keywords": ["date", "picker", "calendar"],
   "dependencies": {
     "component-bind": "1.0.0",
-    "calendar-component": "git://github.com/slifszyc/calendar#0.1.1",
-    "popover-component": "git://github.com/slifszyc/popover",
+    "democracyos-calendar": "^0.3.0",
+    "democracyos-popover": "^1.1.0",
     "component-event": "0.1.4",
-    "aurora": "git://github.com/slifszyc/aurora"
+    "democracyos-aurora": "^0.0.1"
   },
   "style": "datepicker.css",
   "browser": {
     "bind": "component-bind",
-    "calendar": "calendar-component",
-    "popover": "popover-component",
+    "calendar": "democracyos-calendar",
+    "popover": "democracyos-popover",
     "event": "component-event"
   },
   "license": "MIT"
